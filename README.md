@@ -6,14 +6,13 @@ This assignment provides a RESTful API for registering and fetching user details
 
 - Java 8 or later
 - MySQL installed and running
-- Maven (for building the project)
 
 ## Setup
 
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/user-api.git
+git clone https://github.com/hiprav/assignment.git
 
 ## Use
 - you can the api using Postman
