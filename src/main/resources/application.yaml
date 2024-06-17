@@ -1,0 +1,16 @@
+#spring.application.name=assessment
+
+server:
+  port: 8080
+
+spring:
+  application:
+    name: assignment
+  datasource:
+    url: jdbc:mysql://localhost:3306/assignment
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
